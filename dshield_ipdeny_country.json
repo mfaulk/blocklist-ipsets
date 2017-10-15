@@ -1,0 +1,34 @@
+[
+	{
+		"code": "CL",
+		"value": 256
+	},
+	{
+		"code": "IL",
+		"value": 256
+	},
+	{
+		"code": "NL",
+		"value": 768
+	},
+	{
+		"code": "RU",
+		"value": 1280
+	},
+	{
+		"code": "UA",
+		"value": 256
+	},
+	{
+		"code": "US",
+		"value": 1792
+	},
+	{
+		"code": "VN",
+		"value": 256
+	},
+	{
+		"code": "ZA",
+		"value": 256
+	}
+]
